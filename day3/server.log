@@ -1,0 +1,10 @@
+INFO Login Sucessful
+ERROR Database Failure
+INFO logout
+ERROR Timeout
+WARNING Disk Low
+INFO USer Created
+ERROR Connection Lost
+WARNING Memeory Low
+INFO Backup Completed
+
