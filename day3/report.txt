@@ -1,7 +1,0 @@
-System Log Analyzer Report
-============================
-INFO Count: 0
-WARNING Count: 3
-ERROR Count: 25
-
-System status: Critical
