@@ -13,5 +13,5 @@ for (let i=0;i<marks.length;i++ ){
 
 }
 
-console.log("Total Students Passed: "+tp);
-console.log("Total Student Failed: "+tf)
+console.log("Total Passed: "+tp);
+console.log("Total Failed: "+tf)
